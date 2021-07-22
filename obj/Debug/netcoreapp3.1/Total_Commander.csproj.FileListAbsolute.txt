@@ -1,0 +1,15 @@
+D:\C# Sebi Projects\Total_Commander\Total_Commander\bin\Debug\netcoreapp3.1\Total_Commander.exe
+D:\C# Sebi Projects\Total_Commander\Total_Commander\bin\Debug\netcoreapp3.1\Total_Commander.deps.json
+D:\C# Sebi Projects\Total_Commander\Total_Commander\bin\Debug\netcoreapp3.1\Total_Commander.runtimeconfig.json
+D:\C# Sebi Projects\Total_Commander\Total_Commander\bin\Debug\netcoreapp3.1\Total_Commander.runtimeconfig.dev.json
+D:\C# Sebi Projects\Total_Commander\Total_Commander\bin\Debug\netcoreapp3.1\Total_Commander.dll
+D:\C# Sebi Projects\Total_Commander\Total_Commander\bin\Debug\netcoreapp3.1\Total_Commander.pdb
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.csproj.AssemblyReference.cache
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.Form1.resources
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.csproj.GenerateResource.cache
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.AssemblyInfoInputs.cache
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.AssemblyInfo.cs
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.csproj.CoreCompileInputs.cache
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.dll
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.pdb
+D:\C# Sebi Projects\Total_Commander\Total_Commander\obj\Debug\netcoreapp3.1\Total_Commander.genruntimeconfig.cache
